@@ -27,7 +27,7 @@ int main(){
             break;
         }
     }
-    printf("ver 1");
+    printf("ver 2");
 }
 void palindrome_bracket_main(char choice){
     char str[50];
