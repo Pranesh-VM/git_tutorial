@@ -27,7 +27,7 @@ int main(){
             break;
         }
         printf("github changing");
-        printf("git changed");
+        printf("git cloneing");
     }
 }
 void palindrome_bracket_main(char choice){
