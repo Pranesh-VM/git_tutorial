@@ -26,8 +26,9 @@ int main(){
             palindrome_bracket_main('p');
             break;
         }
+        printf("github changing");
+        printf("git changed");
     }
-    printf("ver 2");
 }
 void palindrome_bracket_main(char choice){
     char str[50];
